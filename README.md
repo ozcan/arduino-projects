@@ -1,4 +1,3 @@
-arduino-projects
-================
+*  a line follower robot <a href="http://www.youtube.com/watch?v=2CksdiARZW4">[ video ]</a> <a href="http://i.imgur.com/t9ZKl.jpg">[ picture ]</a>
 
-a line follower robot, thermometer, using 2 led matrix (8x8) with demux
+* 
